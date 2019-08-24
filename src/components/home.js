@@ -1,11 +1,6 @@
 import React from 'react';//createContext SignUp
-import {Switch,Route} from 'react-router-dom';
 import Navbar from './Navbar';
-
 import {InfoSection, Info} from './Info';
-
-import Video from './Video';
-import Testimony from './Testimony';
 import Jumbotron from './Jumbotron';
 import Map from './map';
 import ContactForm from './contactForm';

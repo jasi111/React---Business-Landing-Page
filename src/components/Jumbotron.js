@@ -5,7 +5,7 @@ import React from 'react';
 const Jumbotron = (prop) => {
 
       return (
-      <div id="mainpage" className="Jumbotron-down jumbotron"
+      <div className="Jumbotron-down jumbotron"
       style={{backgroundImage: `url('${prop.img}')` }}>
         <div className="container">
             <div className="row">
